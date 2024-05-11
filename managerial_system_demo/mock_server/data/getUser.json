@@ -1,0 +1,144 @@
+{
+  "url" : "/manage/getUser",
+  "note" : "================================================",
+  "data" : {
+    "users": [
+      {
+        "key": "1",
+        "name": "王一",
+        "age": 32,
+        "address": "王一家里",
+        "tags": "老一"
+      },
+      {
+        "key": "2",
+        "name": "王二",
+        "age": 42,
+        "address": "王二家里",
+        "tags": [
+          "loser"
+        ]
+      },
+      {
+        "key": "3",
+        "name": "王三",
+        "age": 32,
+        "address": "王三家里",
+        "tags": [
+          "cool",
+          "teacher"
+        ]
+      },
+      {
+        "key": "4",
+        "name": "王四",
+        "age": 32,
+        "address": "王四家里",
+        "tags": [
+          "cool",
+          "teacher"
+        ]
+      },
+      {
+        "key": "5",
+        "name": "王五",
+        "age": 32,
+        "address": "王五家里",
+        "tags": [
+          "cool",
+          "teacher"
+        ]
+      },
+      {
+        "key": "6",
+        "name": "王六",
+        "age": 32,
+        "address": "王六家里",
+        "tags": [
+          "cool",
+          "teacher"
+        ]
+      },
+      {
+        "key": "7",
+        "name": "王七",
+        "age": 32,
+        "address": "王七家里",
+        "tags": [
+          "cool",
+          "teacher"
+        ]
+      },
+      {
+        "key": "8",
+        "name": "王八",
+        "age": 32,
+        "address": "王八家里",
+        "tags": [
+          "cool",
+          "teacher"
+        ]
+      },
+      {
+        "key": "9",
+        "name": "王九",
+        "age": 32,
+        "address": "王九家里",
+        "tags": [
+          "cool",
+          "teacher"
+        ]
+      },
+      {
+        "key": "10",
+        "name": "王十",
+        "age": 32,
+        "address": "王十家里",
+        "tags": [
+          "cool",
+          "teacher"
+        ]
+      },
+      {
+        "key": "11",
+        "name": "王十一",
+        "age": 32,
+        "address": "王十一家里",
+        "tags": [
+          "cool",
+          "teacher"
+        ]
+      },
+      {
+        "key": "12",
+        "name": "王十二",
+        "age": 32,
+        "address": "王十二家里",
+        "tags": [
+          "cool",
+          "teacher"
+        ]
+      },
+      {
+        "key": "13",
+        "name": "王十三",
+        "age": 32,
+        "address": "王十三家里",
+        "tags": [
+          "cool",
+          "teacher"
+        ]
+      },
+      {
+        "key": "14",
+        "name": "王十四",
+        "age": 32,
+        "address": "王十四家里",
+        "tags": [
+          "cool",
+          "teacher"
+        ]
+      }
+    ]
+  }
+}

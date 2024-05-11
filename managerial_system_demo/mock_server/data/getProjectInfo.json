@@ -1,0 +1,30 @@
+{
+    "url": "/manage/getProjectInfo",
+    "note": "================================================",
+    "rsp": {
+        "type": 3,
+        "project": "项目名",
+        "ret": 0,
+        "exception": "异常信息",
+        "data": [
+            {
+                "oe": "主机厂名1",
+                "tier1": "tier1厂商名1",
+                "vpsVersion": "协议栈软件版本1",
+                "hardwareId": "硬件标识1",
+                "generationTime": 1111.111,
+                "ret": 0,
+                "exception": "异常信息1"
+            },
+            {
+                "oe": "主机厂名2",
+                "tier1": "tier1厂商名2",
+                "vpsVersion": "协议栈软件版本2",
+                "hardwareId": "硬件标识2",
+                "generationTime": 2211.111,
+                "ret": 1,
+                "exception": "异常信息2"
+            }
+        ]
+    }
+}

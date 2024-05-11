@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code Generator</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="container">
+    <h1>Code Generator</h1>
+    <div class="option">
+        <button onclick="generateScript()">Generate Build Scripts</button>
+    </div>
+    <div class="option">
+        <button onclick="generateCppCode()">Generate C++ Code</button>
+    </div>
+    <div class="option">
+        <button onclick="generateDfa()">Generate DFA Model</button>
+    </div>
+    <div class="option">
+        <button onclick="generateCmake()">Generate CMake Files</button>
+    </div>
+    <div class="option">
+        <button onclick="generateCppProject()">Generate C++ Project</button>
+    </div>
+    <div class="option">
+        <button onclick="generateStubFunction()">Generate Stub Function</button>
+    </div>
+    <textarea id="output" readonly></textarea>
+</div>
+
+<script src="js/script.js"></script>
+</body>
+</html>

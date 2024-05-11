@@ -1,0 +1,27 @@
+{
+    "url": "/manage/getApplicationCount",
+    "note": "================================================",
+    "rsp": {
+        "type": 4,
+        "year": 2023,
+        "month": 5,
+        "ret": 0,
+        "exception": "异常信息",
+        "data": [
+            {
+                "project": "项目名1",
+                "successCountInThisMonth": 123,
+                "failedCountInThisMonth": 2,
+                "allSuccessCount": 456,
+                "allFailedCount": 3
+            },
+            {
+                "project": "项目名2",
+                "successCountInThisMonth": 223,
+                "failedCountInThisMonth": 4,
+                "allSuccessCount": 663,
+                "allFailedCount": 10
+            }
+        ]
+    }
+}
